@@ -1,4 +1,4 @@
-# Collection of programs for hobby projects on ESP32 board by Girish
+# Collection of programs for hobby projects on ESP32 board
 
 This is a collection of programs for hobby projects on the ESP32 board.
 
